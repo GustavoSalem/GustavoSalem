@@ -1,6 +1,6 @@
 ## Hi there, I'm Gustavo
 
-🔭 I’m currently working with software devepment. <br>
+🔭 I’m currently working with software development. <br>
 🌱 I’m currently learning Data Science.<br>
 📫 How to reach me: gustavo.sansil@hotmail.com<br>
 😄 Pronouns: he/him ele/dele<br>
